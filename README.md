@@ -3,5 +3,5 @@
 <li>Robert Kumar</li>
 <li>Thomas Schultz</li>
 
-<a href="/home.html">Start Here</a>
+<a href="/bioSite.github.io/home.html">Start Here</a>
 
