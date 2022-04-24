@@ -2,3 +2,6 @@
 <h2>Contributors</h2>
 <li>Robert Kumar</li>
 <li>Thomas Schultz</li>
+
+<a href="/home.html">Start Here</a>
+
