@@ -58,6 +58,14 @@ p {
     width: 100%;
 }
 
+.about #footer {
+    position: relative;
+}
+
+.hobby #footer {
+    position: relative;
+}
+
 #footer li {
     list-style: none;
 }
