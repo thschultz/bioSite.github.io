@@ -4,17 +4,18 @@ body {
 }
 
 #navbar {
+    text-align: right;
     overflow: hidden;
     border-bottom: 2px solid #000;
 }
 
 #navbar a {
-    float: right;
-    display: block;
+    display: inline-block;
     color: #000;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-size: 18px;
 }
 
 h1,
@@ -23,6 +24,11 @@ a,
 li {
     font-family: 'Barlow Condensed', sans-serif;
     margin: 0px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.4em;
 }
 
 .mainContent {
@@ -56,4 +62,6 @@ li {
 #footer a {
     text-decoration: none;
     color: #000;
+    font-size: 18px;
+    line-height: 1.4em;
 }
