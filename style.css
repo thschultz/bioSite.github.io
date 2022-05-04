@@ -53,6 +53,9 @@ p {
 #footer {
     text-align: center;
     border-top: 2px solid #000;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 #footer li {
