@@ -76,3 +76,9 @@ p {
     font-size: 18px;
     line-height: 1.4em;
 }
+
+@media screen and (max-width: 740px) {
+    .mainContent .row {
+        display: block;
+    }
+}
